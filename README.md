@@ -1,7 +1,8 @@
 # Data and Kinetics Analysis Repository (Acta Materialia)
 This repository contains the consolidated datasets and plotting scripts required to reproduce the energy barrier and segregation energy distributions for the manuscript. 
 
-> **Spectral Sampling of Boron Diffusion in Ni Alloys: Cr and Mo Effects on Bulk and Grain Boundary Transport** > Tyler D. Doležal, Rodrigo Freitas, Ju Li
+> **Spectral Sampling of Boron Diffusion in Ni Alloys: Cr and Mo Effects on Bulk and Grain Boundary Transport**
+> Tyler D. Doležal, Rodrigo Freitas, Ju Li
 
 ## 📂 Repository Structure
 
