@@ -42,6 +42,6 @@ The following scripts allow for the immediate reproduction of the ridge plots us
 
 ## 📝 Citation
 
-If you use this data or these scripts in your research, please cite the following paper:
+If you use this data or these scripts in your research, please cite the following paper, https://doi.org/10.1016/j.actamat.2025.121841:
 
-> **Tyler D. Doležal, Rodrigo Freitas, Ju Li**, "Spectral Sampling of Boron Diffusion in Ni Alloys: Cr and Mo Effects on Bulk and Grain Boundary Transport," *Acta Materialia*, **[Year]**, [Volume], [Page Numbers/DOI].
+> **Tyler D. Doležal, Rodrigo Freitas, Ju Li**, "Spectral Sampling of Boron Diffusion in Ni Alloys: Cr and Mo Effects on Bulk and Grain Boundary Transport," *Acta Materialia*, **2026**, 305, 121841.
